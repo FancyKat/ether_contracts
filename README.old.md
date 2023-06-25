@@ -1,1 +1,0 @@
-# ether_contracts
